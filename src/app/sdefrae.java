@@ -2,6 +2,6 @@ package app;
 
 public class sdefrae {
     public static void main(String[] args) {
-        System.out.println("skjdghjchsg");
+        System.out.println("skj");
     }
 }
